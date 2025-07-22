@@ -6,7 +6,9 @@
 - 📕 Thesis "Water Quality in the Lower Bengal Basin: Risks and Opportunities".
 - 🔋Mission: To develop a COST-EFFECTIVE Managed Aquifer Recharge System for depleted groundwater zones. 
 
+### Languages and Tools 🛠 
 
+![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 
 
 
