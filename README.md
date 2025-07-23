@@ -16,4 +16,4 @@
 
 ### Contact with me 📝
 
-[<img align="left" alt="Piya | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
+[<img align="left" alt="Piya | LinkedIn" height="30px" src="https://www.linkedin.com/in/piya-mohasin-b63060206/"/>][linkedin]
