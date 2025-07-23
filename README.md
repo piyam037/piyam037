@@ -15,9 +15,7 @@
 ![SWAT](https://img.shields.io/badge/-SWAT-red??style=flat-square&logo=SWAT)
 
 ### Contact with me 📝
-[<img[src$=".svg"] {
-      filter: invert(1);
-    } align="left" alt="Piya | LinkedIn" height="30px" src="https://github.com/free-icons/free-icons/blob/master/svgs/brands-linkedin-in.svg"/>][linkedin]
+[<img align="left" alt="Piya | LinkedIn" height="30px" src="https://github.com/free-icons/free-icons/blob/master/svgs/brands-linkedin-in.svg"/>][linkedin]
 
 
 
