@@ -4,7 +4,7 @@
 - 📖 I'm learning transport modeling for water resource management.
 - 🎓 PhD in Water Quality and Management from IISER Kolkata, India.
 - 📕 Thesis "Water Quality in the Lower Bengal Basin: Risks and Opportunities".
-- 🔋Mission: To develop a COST-EFFECTIVE Managed Aquifer Recharge System for depleted groundwater zones. 
+- 🔋Mission: To develop COST-EFFECTIVE Managed Aquifer Recharge Systems for depleted groundwater zones. 
 
 ### 🛠 Languages and Tools  
 
