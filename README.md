@@ -8,9 +8,9 @@
 
 ### Languages and Tools 🛠 
 
-![Pythobn](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![ArcGIS](https://img.shields.io/badge/-ArcGIS-333)
+![ArcGIS](https://img.shields.io/badge/-ArcGIS-333?style=flat-square&logo=arcgis)
 ![MODFLOW](https://img.shields.io/badge/-MODFLOW-123QQ)
 ![SWAT](https://img.shields.io/badge/-SWAT-red)
 
