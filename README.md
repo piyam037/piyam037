@@ -15,5 +15,4 @@
 ![SWAT](https://img.shields.io/badge/-SWAT-red??style=flat-square&logo=SWAT)
 
 ### Contact with me 📝
-
-[<img align="left" alt="Piya | LinkedIn" height="30px" src="https://www.linkedin.com/in/piya-mohasin-b63060206/"/>][linkedin]
+[Linkedin]: https://www.linkedin.com/in/piya-mohasin-b63060206/
